@@ -135,5 +135,5 @@ Runs a shell command and returns the output as a Buffer.
 
 MIT – © 2025 [Nolan Gajdascz](https://github.com/gajdascz)
 
-- [NPM](https://www.npmjs.com/gajdascz/depcruiser-utils)
+- [NPM](https://www.npmjs.com/package/depcruiser-utils)
 - [GitHub](https://github.com/gajdascz/depcruiser-utils)
